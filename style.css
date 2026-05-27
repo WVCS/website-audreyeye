@@ -1,3 +1,14 @@
-body {
+img{
+  width: 20%;
+  border-radius: 50%;
+  border: #051c04 3px dotted;
+}
 
+body{
+  background-color: #ede9dd;
+}
+
+h2{
+  color: #051c04;
+  font-family: Papyrus;
 }
